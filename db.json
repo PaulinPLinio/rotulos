@@ -1,0 +1,13 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "comida": "arroz",
+    },
+    {
+      "id": 2,
+      "comida": "feijão",
+    },
+  ]
+
+}
